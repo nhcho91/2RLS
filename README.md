@@ -1,0 +1,1 @@
+Simple numerical experiment for two-stage recursive least squares method (2RLS) consisting of orthogonal recursive fitting (ORFit) in the underdetermined regime followed by usual recursive least squares (RLS) in the overdetermined regime.
